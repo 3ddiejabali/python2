@@ -1,0 +1,1 @@
+#Write a simple python program to dmonstrate encapsulation in op
